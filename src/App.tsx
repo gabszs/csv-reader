@@ -102,7 +102,7 @@ function App() {
       <section id="cards-holder">
         {users.length < 1 && (
           <div id="search-cta">
-            <h1>No user found. Upload a new file or update your search!</h1>
+            <h1>No user found. Upload a new file or update your search!!</h1>
           </div>
         )}
 
